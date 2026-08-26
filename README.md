@@ -1,4 +1,4 @@
-# Stone, Paper, Scissors
+# Stone, Paper, Scissor.
 
 A simple, interactive **Stone, Paper, Scissors** game built using web technologies.
 
