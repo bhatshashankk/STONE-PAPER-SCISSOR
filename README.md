@@ -2,6 +2,8 @@
 
 A simple, interactive **Stone, Paper, Scissors** game built using web technologies.
 
+[Live Demo Link] : https://stone-paper-scissor-gameplay.netlify.app
+
 ## 🛠️ Tech Stack
 * **HTML5** - Structure of the website
 * **CSS3** - Styling and layout
