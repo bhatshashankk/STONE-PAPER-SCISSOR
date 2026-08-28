@@ -2,7 +2,7 @@
 
 A simple, interactive **Stone, Paper, Scissors** game built using web technologies.
 
-[Live Demo Link] : 
+[Live Demo Link] : https://stone-paper-scissor-kappa-six.vercel.app/
 
 ## 🛠️ Tech Stack
 * **HTML5** - Structure of the website
